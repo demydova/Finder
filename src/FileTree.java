@@ -1,3 +1,10 @@
+/**
+ * Name FileTree
+ * Description: This class is a clone of Mac Finder for Windows
+ * Author: Ganna Demydova
+ * Date: 01.01.2017
+ * Version: 1.1
+ */
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Container;
